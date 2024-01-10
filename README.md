@@ -8,8 +8,8 @@
 
 ### This is built using HTML, CSS, JavaScript <br/>
 
-[Check out the website here](https://rounakraj401.github.io/Sortify/)
+(https://khushboo/Sortify/)
 
-<img src="img/img1.png"> <br/>
-<img src="img/img2.png"> <br/>
-<img src="img/img3.png"> <br/>
+<img src="img1.png"> <br/>
+<img src="img2.png"> <br/>
+<img src="img3.png"> <br/>
